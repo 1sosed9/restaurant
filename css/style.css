@@ -330,6 +330,7 @@ li {
   align-items: center;
   justify-content: center;
   margin-bottom: 21px;
+  max-width: 556px;
 }
 
 .header__sub-title-line {
